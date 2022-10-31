@@ -8,7 +8,8 @@
   </a>
  
   <p align="center">
-    wexron web hosting services
+    <h3>Cheap Webhosting With Unbeatable Performance</h3>
+    <h6>With NVMe SSD Storage and AMD Ryzen 9 Processors</h6>
     <br />
     <br />
      <img src="https://betteruptime.com/status-badges/v1/monitor/ipw4.svg">
