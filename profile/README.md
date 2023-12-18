@@ -24,8 +24,8 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Landing Page</td>
+    <td class="tg-0pky"><img src="https://uptime.betterstack.com/status-badges/v1/monitor/ipw4.svg"></td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
